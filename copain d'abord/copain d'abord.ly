@@ -1,6 +1,7 @@
 \score {
   \version "2.20.0"
 
+  \transpose g c
   \relative {
     \key g \major
 
